@@ -4,11 +4,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">BMSTU student and beginning Data Scientist 🇷🇺</h3>
 
-<!--
-**theshvd/theshvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying on BMSTU 
 - 🌱 I’m currently learning  Machine Learning, Python, Mathematics
 - 📫 How to reach me: 
