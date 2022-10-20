@@ -6,13 +6,9 @@
 
 - 🔭 I’m currently studying on BMSTU 
 - 🌱 I’m currently learning  Machine Learning, Python and  Mathematics
-- 😄 My hobbies: GYM
-- <p>📫 How to reach me: <a href="https://vk.com/theshvd" target="_blank"><img src="https://img.shields.io/badge/VK-DCDCDC?style=for-theadge&logo=VK&logoColor=4682B4"/></a>    <a href="https://t.me/theshvd550" target="_blank"><img src="https://img.shields.io/badge/Telegram-DCDCDC?style=for-theadge&logo=Telegram&logoColor=4682B4"/>  </a><a href="https://www.instagram.com/theshvd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DCDCDC?style=for-theadge&logo=Instagram&logoColor=BA55D3"/></a>  </a><a href="mailto:vshelopugin@mail.ru" target="_blank"><img src="https://img.shields.io/badge/vshelopugin@mail.ru-DCDCDC?style=for-theadge&logo=Mail.Ru&logoColor=BA55D3"/></a> </p>
-
+- 😄 My hobbies: GYM💪, Guitar🎸, Cars🏁, Games🎮,Arduino🔌
+- <p>📫 How to reach me: <a border: 3px solid black; href="https://vk.com/theshvd" target="_blank"><img src="https://img.shields.io/badge/VK-DCDCDC?style=for-theadge&logo=VK&logoColor=4682B4"/></a>    <a href="https://t.me/theshvd550" target="_blank"><img src="https://img.shields.io/badge/Telegram-DCDCDC?style=for-theadge&logo=Telegram&logoColor=4682B4"/>  </a><a href="https://www.instagram.com/theshvd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DCDCDC?style=for-theadge&logo=Instagram&logoColor=BA55D3"/></a>  </a><a href="mailto:vshelopugin@mail.ru" target="_blank"><img src="https://img.shields.io/badge/vshelopugin@mail.ru-DCDCDC?style=for-theadge&logo=Mail.Ru&logoColor=0000CD"/></a> </p>
 ---
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 My stack:
 ---
